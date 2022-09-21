@@ -1,6 +1,6 @@
 # Lab 1
 
-###To test search algorithms use the following commands
+### To test search algorithms use the following commands
 
 ### Lee Search:
 - ```python pacman.py -l mediumMaze -p SearchAgent -a fn=leeSearch --goalX={int} --goalY={int}```
@@ -17,3 +17,5 @@
 
 ### Corners Search:
 - ```python pacman.py -l mediumCorners -p AStarCornersAgent```
+
+### Note: You can customize mazes by modifying layouts
